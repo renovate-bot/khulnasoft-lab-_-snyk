@@ -652,6 +652,8 @@ github.com/sirupsen/logrus v1.9.0 h1:trlNQbNUG3OdDrDil03MCb1H2o9nJ1x4/5LYw7byDE0
 github.com/sirupsen/logrus v1.9.0/go.mod h1:naHLuLoDiP4jHNo9R0sCBMtWGeIprob74mVsIT4qYEQ=
 github.com/snyk/cli-extension-dep-graph v0.0.0-20230926124856-b0fdf1ee6f73 h1:rwdJzpPWkWWf7csbv871GoKgRGwJ4GVNXMSsO0cRuLk=
 github.com/snyk/cli-extension-dep-graph v0.0.0-20230926124856-b0fdf1ee6f73/go.mod h1:QF3v8HBpOpyudYNCuR8LqfULutO76c91sBdLzD+pBJU=
+github.com/snyk/cli-extension-dep-graph v0.0.0-20240610101214-0e4558114245 h1:ttTkQHhdUmtYf1rmNXxuh0GQzN3x+dz06oKcdDjkogg=
+github.com/snyk/cli-extension-dep-graph v0.0.0-20240610101214-0e4558114245/go.mod h1:QF3v8HBpOpyudYNCuR8LqfULutO76c91sBdLzD+pBJU=
 github.com/snyk/cli-extension-iac-rules v0.0.0-20230601153200-c572cfce46ce h1:WchwuyPX4mEr7tFCGD6EsjwTDipFWfLxs4Wps6KB3b4=
 github.com/snyk/cli-extension-iac-rules v0.0.0-20230601153200-c572cfce46ce/go.mod h1:5/IYYTgf32pST7St4GhS3KNz32WE17Ys+Hdb5Pqxex0=
 github.com/snyk/cli-extension-sbom v0.0.0-20240314090036-46535b380426 h1:MXbip3nmiOym3/9bNWlPISVOAEAAz4FDcPvqOMPcCc4=

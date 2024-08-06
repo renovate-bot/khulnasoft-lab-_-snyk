@@ -9,7 +9,7 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/pkg/errors v0.9.1
 	github.com/rs/zerolog v1.32.0
-	github.com/snyk/cli-extension-dep-graph v0.0.0-20230926124856-b0fdf1ee6f73
+	github.com/snyk/cli-extension-dep-graph v0.0.0-20240610101214-0e4558114245
 	github.com/snyk/cli-extension-iac-rules v0.0.0-20230601153200-c572cfce46ce
 	github.com/snyk/cli-extension-sbom v0.0.0-20240314090036-46535b380426
 	github.com/snyk/container-cli v0.0.0-20240322120441-6d9b9482f9b1
