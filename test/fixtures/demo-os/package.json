@@ -80,7 +80,7 @@
     "grunt-contrib-uglify": "0.9.1",
     "grunt-contrib-watch": "0.6.1",
     "grunt-docker": "0.0.10",
-    "grunt-express-server": "0.5.1",
+    "grunt-express-server": "0.5.4",
     "grunt-jscs": "1.8.0",
     "grunt-mocha-cli": "1.13.0",
     "grunt-mocha-istanbul": "2.4.0",
