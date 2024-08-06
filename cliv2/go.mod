@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/elazarl/goproxy v0.0.0-20231031074852-3ec07828be7a
-	github.com/elazarl/goproxy/ext v0.0.0-20230808193330-2592e75ae04a
+	github.com/elazarl/goproxy/ext v0.0.0-20240726154733-8b0c20506380
 	github.com/gofrs/flock v0.8.1
 	github.com/google/uuid v1.6.0
 	github.com/pkg/errors v0.9.1
