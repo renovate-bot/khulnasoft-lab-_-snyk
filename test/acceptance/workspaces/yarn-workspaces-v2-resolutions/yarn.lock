@@ -32,7 +32,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "apples@workspace:packages/apples"
   dependencies:
-    node-uuid: 1.0.0
+    node-uuid: 1.4.6
   languageName: unknown
   linkType: soft
 
@@ -339,10 +339,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"node-uuid@npm:1.3.0":
-  version: 1.3.0
-  resolution: "node-uuid@npm:1.3.0"
-  checksum: 8e8e4b30a0a1e01931a81889aee5b5e3e4106acc9e6fa55b26ac9d7a8b9a84da1f8fb75a6cd742da3bf8f5c2067eadbfa4ae54b37fe1cb7a312fe655918536da
+"node-uuid@npm:1.4.6":
+  version: 1.4.6
+  resolution: "node-uuid@npm:1.4.6"
+  bin:
+    uuid: ./bin/uuid
+  checksum: 72718405d5ad085e6908608967bb3540998b6f75f8517f740bc04ebf5c036788b28c1160218cebb60c0d89aa5018553fd799d766d3e86dd19f117556d90b4e1d
   languageName: node
   linkType: hard
 
